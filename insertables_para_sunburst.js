@@ -195,7 +195,7 @@ var profundidad_2 = `
         </div>
 
         <div class="row vh-10"></div>
-        <div class="row vh-15">
+        <div class="row vh-50" style="overflow-y:scroll">
             <div class="testimonios col-12">
                 <div class="content">
                     <div class="container">
@@ -221,7 +221,6 @@ var profundidad_2 = `
                 </div>
             </div>
         </div>
-        <div class="row vh-20"></div>
     </div>
 `;
 
